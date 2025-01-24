@@ -68,7 +68,7 @@ For a challenge, you might see how many legible dice you can fit on the screen. 
 
 Samples of Student Work
 -----------------------
-[]()
+
 [Elena](https://elenachavez0331.github.io/dice/)
 [Truman](https://truman-ev.github.io/dice/)
 [Keneth](https://kenethl.github.io/Dice/)   
